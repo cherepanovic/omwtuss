@@ -1,2 +1,2 @@
 # omwtuss
-on_my_way_to_understand_some_stuff
+Life is a continuous learning process
