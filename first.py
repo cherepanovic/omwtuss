@@ -9,6 +9,7 @@ m = Basemap(llcrnrlon=-100.,llcrnrlat=20.,urcrnrlon=20.,urcrnrlat=60.,\
             rsphere=(6378137.00,6356752.3142),\
             resolution='l',projection='merc',\
             lat_0=40.,lon_0=-20.,lat_ts=20.)
+#geadded
 # nylat, nylon are lat/lon of New York
 nylat = 40.78; nylon = -73.98
 # lonlat, lonlon are lat/lon of London.
